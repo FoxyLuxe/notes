@@ -11,7 +11,7 @@ Machine learning and artificial intelligence encompass a wide range of algorithm
         - [ ] Gradient Boosting Machines (GBM)
         - [ ] Naive Bayes
         - [ ] K-Nearest Neighbors (KNN)
-        - [ ] Neural Networks (including Deep Learning)
+        - [X] Neural Networks (including Deep Learning)
 
 ###    Unsupervised Learning Algorithms:
         - [ ] K-Means Clustering
